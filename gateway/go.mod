@@ -33,7 +33,7 @@ require (
 	github.com/devopsfaith/krakend-xml v0.0.0-20200824111110-baa61b333b05
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/gadelkareem/cachita v0.2.1
-	github.com/gin-gonic/gin v1.7.1
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-contrib/uuid v1.2.0
 	github.com/go-playground/validator/v10 v10.6.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
